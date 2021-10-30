@@ -802,11 +802,11 @@ header .container nav .links > li:hover > .other-links {
           clip-path: polygon(0% 100%, 100% 100%, 0% 0%);
 }
 
-.features .container .card:hover .image a {
+.features .container .card:hover .info a {
   color: #fff;
 }
 
-.features .container .card:hover .image a::after {
+.features .container .card:hover .info a::after {
   width: 100%;
 }
 
